@@ -1,5 +1,5 @@
 // Akshar Patel
-// Movie Ticket selling app in C.
+// Movie Ticket selling app made in C.
 
 #include <stdio.h>
 #include <string.h>
